@@ -1,5 +1,5 @@
 package com.qa.calulator;
 
 public class App {
-	System.out.println();
+	System.out.println("calculator");
 }
